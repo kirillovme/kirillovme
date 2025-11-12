@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirillovme&label=Profile%20views&color=0e75b6&style=flat" alt="kirillovme" /> </p>
 
-- 🔭 I’m currently working on **Email Bot** 
-
-- 🌱 I’m currently learning **Django-ninja**
-
-- 💬 Ask me about **Django, DRF, FASTAPI**
+- 🔭 I’m currently working on **Distributed rate limiter** 
 
 - 📫 How to reach me **popts60@gmail.com**
 
